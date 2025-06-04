@@ -1,10 +1,10 @@
-# 📍 Africa’s Debt Trap — A Data & Forecasting Analysis (2010–2025)
+# Africa’s Debt Trap — A Data & Forecasting Analysis (2010–2025)
 
 Welcome to the **Africa’s Debt Trap** project — an end-to-end economic analysis that combines **public API data**, **automated ETL pipelines**, and **AI-powered insights** to examine the rising debt burden across African nations. As a data analyst and aspiring AI practitioner, I built this system to uncover macroeconomic risks, promote financial transparency, and enable data-driven decision-making for governments, researchers, and citizens.
 
 ---
 
-## 📚 Table of Contents
+## Table of Contents
 
 - [🎯 Project Objectives](#-project-objectives)
 - [📘 Project Overview](#-project-overview)
@@ -18,7 +18,7 @@ Welcome to the **Africa’s Debt Trap** project — an end-to-end economic analy
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 The main goals of this project were to:
 
@@ -31,7 +31,7 @@ The main goals of this project were to:
 
 ---
 
-## 📘 Project Overview
+## Project Overview
 
 As of 2025, many African nations are grappling with unsustainable debt levels. Loans from external lenders, including China and the IMF, have increased exponentially, while economic shocks like COVID-19 and currency volatility have worsened the crisis. Yet, public access to real-time debt insights remains limited.
 
@@ -45,17 +45,17 @@ This project addresses that by:
 
 ---
 
-## 🔍 Key Findings
+## Key Findings
 
-- 📈 External debt in Sub-Saharan Africa has tripled since 2010.
-- 🌍 Countries like Zambia, Ghana, and Kenya face **severe debt stress**.
-- 💵 Chinese loans dominate the infrastructure financing landscape.
-- 📉 Debt-to-GDP ratios above 70% often align with **currency devaluation** and **bond yield spikes**.
-- 🚨 Protests related to fuel prices and austerity are **closely correlated** with debt spikes.
+- External debt in Sub-Saharan Africa has tripled since 2010.
+- Countries like Zambia, Ghana, and Kenya face **severe debt stress**.
+- Chinese loans dominate the infrastructure financing landscape.
+- Debt-to-GDP ratios above 70% often align with **currency devaluation** and **bond yield spikes**.
+- Protests related to fuel prices and austerity are **closely correlated** with debt spikes.
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
 | Tool | Purpose |
 |------|---------|
@@ -70,13 +70,13 @@ This project addresses that by:
 
 ---
 
-## 📊 Dashboards
+## Dashboards
 
-- 🌐 Country-wise Debt Choropleth  
-- 📉 Yearly Debt-to-GDP Trendlines  
-- 🔍 Top Lenders and Loan Terms  
-- 🧠 Forecasted Fiscal Stress Zones (2025–2027)  
-- 🔥 Protests and Policy Responses Timeline  
+- Country-wise Debt Choropleth  
+- Yearly Debt-to-GDP Trendlines  
+- Top Lenders and Loan Terms  
+- Forecasted Fiscal Stress Zones (2025–2027)  
+- Protests and Policy Responses Timeline  
 
 > Demo: *(insert link to Streamlit/Vercel deployment)*
 
@@ -94,16 +94,16 @@ This project addresses that by:
 
 ---
 
-## 📄 Full Report
+## Full Report
 
 A visual + technical report covering debt trends, lender analysis, and forecasting results:
 
-📘 [Read Full Analysis on Hashnode](https://abdullahybashir.hashnode.dev)  
-📰 [Subscribe to updates](https://yourusername.substack.com)
+[Read Full Analysis on Hashnode](https://abdullahybashir.hashnode.dev)  
+[Subscribe to updates](https://yourusername.substack.com)
 
 ---
 
-## 🧠 Future Enhancements
+## Future Enhancements
 
 - Add **natural language querying** using conversational AI  
 - Integrate **real-time bond yield data**  
@@ -112,7 +112,7 @@ A visual + technical report covering debt trends, lender analysis, and forecasti
 
 ---
 
-## 📬 Connect with Me
+## Connect with Me
 
 - 💻 [GitHub](https://github.com/Abdllahy)  
 - 🧠 [LinkedIn](https://linkedin.com/in/abdullahybashir)  
