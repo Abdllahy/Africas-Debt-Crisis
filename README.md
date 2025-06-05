@@ -64,9 +64,7 @@ This project addresses that by:
 | `World Bank & IMF API` | Data sourcing |
 | `BeautifulSoup` | Scraping news headlines |
 | `SQL / BigQuery` | Data warehousing |
-| `Prophet / ARIMA` | Forecasting trends |
 | `Plotly / Streamlit` | Interactive visualizations |
-| `GitHub Actions + Docker` | Pipeline automation |
 
 ---
 
@@ -77,8 +75,6 @@ This project addresses that by:
 - Top Lenders and Loan Terms  
 - Forecasted Fiscal Stress Zones (2025–2027)  
 - Protests and Policy Responses Timeline  
-
-> Demo: *(insert link to Streamlit/Vercel deployment)*
 
 ---
 
