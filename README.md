@@ -18,7 +18,7 @@ Welcome to the **Africa’s Debt Trap** project — an end-to-end economic analy
 
 ---
 
-## Project Objectives
+## Project Objectives and Goals
 
 The main goals of this project were to:
 
